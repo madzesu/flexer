@@ -1,2 +1,2 @@
 # flexer
-working time management system
+time management system
